@@ -1,3 +1,6 @@
 [submodule "AppMaker.WebClient"]
 	path = AppMaker.WebClient
 	url = ../AppMaker.WebClient.git
+[submodule "AppMaker.Server"]
+	path = AppMaker.Server
+	url = ../AppMaker.Server.git
